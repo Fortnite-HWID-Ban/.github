@@ -7,6 +7,13 @@
   <img src="https://img.shields.io/badge/Last%20Update-2025-orange?style=flat-square" />
 </p>
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=b8XyEwxpccE" target="_blank">
+    <img src="https://i.ytimg.com/vi/b8XyEwxpccE/hqdefault.jpg" alt="Fortnite HWID Ban Fix Video Thumbnail" width="320" height="180" />
+    <br><strong>WATCH THE FULL GUIDE HERE!!</strong>
+  </a>
+</p>
+
 <hr />
 
 <h2>👋 HWID Ban Solution</h2>
@@ -34,14 +41,3 @@ We’re a team of gamers and coders who build tools to fix your <strong>Fortnite
 <p align="center">
   <a href="https://www.youtube.com/watch?v=b8XyEwxpccE" target="_blank">
     <img src="https://img.shields.io/badge/Watch%20YouTube%20Guide-Click%20Here-red?style=for-the-badge&logo=youtube" />
-  </a>
-</p>
-
-<h3>📋 Quick Tips to Remove Your HWID Ban</h3>
-<p>Ready to get started? Here’s a detailed rundown of what to do:</p>
-<ol>
-  <li><strong>Download the Tool:</strong> Head to our releases section and grab the latest version of our HWID ban fix. It’s a small file, so it won’t take long. Make sure you’re getting it from our official link to avoid fakes.</li>
-  <li><strong>Set It Up:</strong> Open our guide—it’s got pictures and simple steps. You’ll run the tool to hide your computer’s ID, which tricks Fortnite into thinking you’re on a new device. We’ll tell you how to double-check it worked before you log in.</li>
-  <li><strong>Play Again:</strong> Launch Fortnite and sign in. If everything’s good, you’ll be back in the lobby, ready for that Victory Royale. It’s super simple, and most people are playing again in under 10 minutes!</li>
-</ol>
-<p><strong>Extra Tip:</strong> After you’re back, play smart—avoid hacks or anything that could flag your account again. Our tool hides your hardware, but Epic Games still watches how you play.</p>
